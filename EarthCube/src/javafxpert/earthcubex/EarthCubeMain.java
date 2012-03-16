@@ -56,7 +56,7 @@ public class EarthCubeMain extends Application {
     cube.setFocusTraversable(true);
     
     scene = SceneBuilder.create()
-      .fill(Color.RED)
+      .fill(Color.BLUE)
       .width(800)
       .height(800)
       .camera(
